@@ -1,2 +1,2 @@
 # ToBase64
-Convert images and files to base64.
+Encode images and files with base64.
